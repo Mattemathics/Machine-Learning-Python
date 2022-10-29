@@ -1,6 +1,1 @@
-Hello! 
-
-Adding some more text to test stuff
-
-And some more :)
-djfvnan
+Here comes some Documentation about the program
