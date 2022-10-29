@@ -158,6 +158,8 @@ numer2 = np.array(range(3))
 tex2 = ['r+','r-','r0']
 
 
+###Plots and images
+
 fig = plt.figure(figsize=(8,6))
 
 fig.add_subplot(4, 1, 1)
