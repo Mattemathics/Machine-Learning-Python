@@ -1,11 +1,9 @@
+###This is a code for leaning Two moon dataset using CBC Reject Options
 import numpy as np
 import sklearn as sk
 from sklearn.datasets import make_moons
 import matplotlib.pyplot as plt
-
 from matplotlib.colors import ListedColormap
-
-
 
 ################
 
