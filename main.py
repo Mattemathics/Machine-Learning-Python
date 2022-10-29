@@ -5,7 +5,7 @@ from sklearn.datasets import make_moons
 import matplotlib.pyplot as plt
 from matplotlib.colors import ListedColormap
 
-################
+################Parameters
 
 k = 4
 c = 2
