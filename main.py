@@ -24,6 +24,7 @@ neu_reasoning = np.ones((c,k)) - pos_reasoning - neg_reasoning
 [x_train,y_train] = sk.datasets.make_moons(n_samples=samples, shuffle=True, noise=0.1, random_state=0)
 [x_test,y_test] = sk.datasets.make_moons(n_samples=test_iter, shuffle=True, noise=0.1, random_state=0)
 
+#here lies the functions
 
 def sig(x,lam):
     return 1/(1+np.exp(-(x/lam)))
